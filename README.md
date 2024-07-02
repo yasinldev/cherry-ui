@@ -32,5 +32,5 @@ Please read our [Contributing Guidelines](./CONTRIBUTING.md) before contributing
 
 ## License
 
-Cherry UI is licensed under the [MIT License](./LICENSE).
+Cherry UI is licensed under the [Apache License](./LICENSE).
 
